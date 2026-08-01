@@ -64,19 +64,10 @@ NTI capstone project — a responsive single-page app showcasing projects and sk
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mosadnabil011&show_icons=true&theme=github_dark&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=mosadnabil011&theme=github-dark-blue&hide_border=true"
-    height="170"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mosadnabil011&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Mosaad's GitHub stats" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=mosadnabil011&theme=github-dark-blue&hide_border=true" alt="Mosaad's GitHub streak" height="170"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosadnabil011&layout=compact&theme=github_dark&hide_border=true"
-    height="170"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosadnabil011&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170"/>
 </p>
