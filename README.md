@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mosaad Nabil Abokammer</h1>
-<h3 align="center">Full-Stack Developer (MEAN/MERN) | CCE Engineering Student</h3>
+<h3 align="center">Software Engineer | Backend Specialist (Node.js & Express.js) | CCE Engineering Student</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mosadabokammer/">
