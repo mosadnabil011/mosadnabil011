@@ -64,8 +64,7 @@ NTI capstone project — a responsive single-page app showcasing projects and sk
 ### 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=mosadnabil011&theme=github-dark-blue&hide_border=true%22%20alt=%22Mosaad%27s%20GitHub%20streak" height="170"/>
-
+<img src="https://streak-stats.demolab.com/?user=mosadnabil011&theme=github-dark-blue&hide_border=true" alt="Mosad's GitHub streak" height="170"/>
 </p>
 
 
