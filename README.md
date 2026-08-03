@@ -1,69 +1,24 @@
 <h1 align="center">Hi 👋, I'm Mosaad Nabil Abokammer</h1>
 <h3 align="center">Software Engineer | Backend Specialist (Node.js & Express.js) | CCE Engineering Student</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mosadabokammer/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mosadnabil011@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+# 💫 About Me:
+🎓 Communication & Computer Engineering (CCE) student at Mansoura University (CGPA 3.8/4.0)<br>💼 Software Engineering Intern at Orange Egypt — Billing Technology Team, reviewed internal Java batch tools (BULK_TOOL, B2B_DSL) and identified critical performance & reliability issues<br>🏆 97.5% — MEAN Stack Web Development, National Telecommunication Institute (NTI)<br>🌱 Currently sharpening my skills in secure REST API design, Angular/React SPAs, and MVC architecture<br>📫 Reach me at mosadnabil011@gmail.com
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mosad_abokammer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mosadabokammer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mosadnabil011@gmail.com) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mosadnabil011&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mosadnabil011&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mosadnabil011&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+[![](https://komarev.com/ghpvc/?username=mosadnabil011&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🧑‍💻 About Me
-
-- 🎓 Communication & Computer Engineering (CCE) student at **Mansoura University** (CGPA 3.8/4.0)
-- 💼 Billing Technology Intern at **Orange Egypt** — reviewed production Java billing tools (BULK_TOOL, B2B_DSL), diagnosed a processing-order defect in a SOAP payment flow, and proposed logging/DB performance improvements
-- 🏆 **99.1%** — Back-end Web Development Diploma (Node.js) — Software Engineering Future (SEF)
-- 🏆 **97.5%** — MEAN Stack Web Development — National Telecommunication Institute (NTI)
-- 🌱 Currently sharpening skills in secure REST API design, Angular/React SPAs, and MVC architecture
-- 📫 Reach me at **mosadnabil011@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Databases & Tools**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-**[Secure Todo REST API](https://github.com/mosadnabil011/todo-app-backend)**
-Node.js · Express · MongoDB · JWT
-A secure, scalable REST API with JWT authentication, per-user data isolation, MVC architecture, and Joi request validation.
-
-**[Personal Portfolio (Angular)](https://688baebfbe5031598ebc3f48--profound-gelato-3679f2.netlify.app/)**
-Angular · Responsive SPA
-NTI capstone project — a responsive single-page app showcasing projects and skills, deployed on Netlify.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=mosadnabil011&theme=github-dark-blue&hide_border=true&v=1" alt="Mosad's GitHub streak" height="170"/>
-</p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
