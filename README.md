@@ -11,7 +11,7 @@
 <a href="https://mosaad-nabil-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00b894?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/mosaadabokammer"><img src="https://img.shields.io/badge/LINKEDIN-0984e3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:mosadnabil011@gmail.com"><img src="https://img.shields.io/badge/EMAIL-6c5ce7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://discord.gg/mosad_abokammer"><img src="https://img.shields.io/badge/DISCORD-2d3436?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<!-- <a href="https://discord.gg/mosad_abokammer"><img src="https://img.shields.io/badge/DISCORD-2d3436?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> -->
 
 </div>
 
